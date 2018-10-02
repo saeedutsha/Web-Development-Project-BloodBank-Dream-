@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Record>
+		<Designation>President</Designation>
+		<Name>Oronno</Name>
+		<Department>CSE</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Vice-President</Designation>
+		<Name>Tamim</Name>
+		<Department>BECM</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Rofiq</Name>
+		<Department>BECM</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Prodhi</Name>
+		<Department>CSE</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Tushi</Name>
+		<Department>EEE</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>General Secretary</Designation>
+		<Name>Hakim</Name>
+		<Department>CE</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Assistant General Secretary</Designation>
+		<Name>Ebu</Name>
+		<Department>ECE</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Polin</Name>
+		<Department>URP</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Organizing Secretary</Designation>
+		<Name>Nasim</Name>
+		<Department>EEE</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Assistant Organizing Secretary</Designation>
+		<Name>Taposh</Name>
+		<Department>BECM</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Tonmoy</Name>
+		<Department>CSE</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Treasurer</Designation>
+		<Name>Joy</Name>
+		<Department>IEM</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Event Manager</Designation>
+		<Name>Shezan</Name>
+		<Department>CSE</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Samu</Name>
+		<Department>LE</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Mila</Name>
+		<Department>URP</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Assistant Event Manager</Designation>
+		<Name>Pranto</Name>
+		<Department>URP</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Wasiur</Name>
+		<Department>BECM</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Paper &amp; Resource Management</Designation>
+		<Name>Tusher</Name>
+		<Department>CSE</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Etu</Name>
+		<Department>EEE</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Day Celebration Committee</Designation>
+		<Name>Dipto</Name>
+		<Department>CSE</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>IT Secretary</Designation>
+		<Name>Bappy</Name>
+		<Department>EEE</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Akhi</Name>
+		<Department>TE</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Publicity Secretary</Designation>
+		<Name>Zihan</Name>
+		<Department>CSE</Department>
+		<Batch>2K13</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation>Assistant Publicity Secretary</Designation>
+		<Name>Saad</Name>
+		<Department>CE</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+	<Record>
+		<Designation> </Designation>
+		<Name>Hasib</Name>
+		<Department>CE</Department>
+		<Batch>2K14</Batch>
+		<ContactNo>8801712345678</ContactNo>
+	</Record>
+</data-set>

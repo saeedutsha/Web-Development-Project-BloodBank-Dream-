@@ -1,0 +1,94 @@
+
+	<div class= "pborder">
+		<center><h1> WELCOME <?php echo $_SESSION['username']; ?> IN DREAM"S WEBSITE ! </h1></center>
+
+	</div>
+
+	<div class="table">
+
+		<table align="center" border="1" >
+      <caption> </caption>
+	
+	<tr>
+	
+	<th colspan="2">USERNAME </th>
+	<?php echo "<td colspan='4'>".$row['username']."</td>" ?>
+	
+	</tr>
+	
+	<tr>
+	
+	<th colspan="2">EMAIL </th>
+	<?php echo "<td colspan='4'>".$row['email']."</td>" ?>
+	
+	</tr>
+	
+	<tr>
+	
+	<th colspan="2">NAME </th>
+	<?php echo "<td colspan='4'>".$row['name']."</td>" ?>
+	
+	</tr>
+	
+	<tr>
+	
+	<th colspan="2">GENDER </th>
+	<?php echo "<td colspan='4'>".$row['gender']."</td>" ?>
+	
+	</tr>
+	
+	
+	<tr>
+	
+	<th colspan="2">MOBILE NUMBER </th>
+	<?php echo "<td colspan='4'>".$row['contact']."</td>" ?>	
+	</tr>
+	
+	
+	
+	<tr>
+	
+	<th colspan="2">BLOOD GROUP</th>
+	<?php echo "<td colspan='4'>".$row['blood']."</td>" ?>
+	
+	</tr>
+	
+	<tr>
+	
+	<th colspan="2">DATE OF BIRTH</th>
+	<?php echo "<td colspan='4'>".$row['bday']."</td>" ?>
+	
+	</tr>
+	
+	<tr>
+	
+	<th colspan="2">ADDRESS</th>
+	<?php echo "<td colspan='4'>".$row['address']."</td>" ?>
+	
+	</tr>
+	
+	
+	<tr>
+	
+	<th colspan="2">CITY/DISTRICT </th>
+	<?php echo "<td colspan='4'>".$row['city']."</td>" ?>
+	
+	</tr>
+	
+	<tr>
+	
+	<th colspan="2">STATE/DIVISION </th>
+	<?php echo "<td colspan='4'>".$row['state']."</td>" ?>
+
+	</tr>
+
+	<tr>
+	
+	<th colspan="2">COUNTRY </th>
+	<?php echo "<td colspan='4'>".$row['country']."</td>" ?>
+	
+	</tr>
+	
+	</table> 
+
+	</div>

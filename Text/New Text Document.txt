@@ -1,0 +1,29 @@
+$file = $_FILES['image']['name'];
+
+		if(isset($file)){
+			$pic =  $_FILES['image']['name'];
+			
+			if($password == $confirm){
+
+			session_start();
+			$password = md5($password);
+			$sql = "INSERT INTO users(username,email,password,name,gender,mobile,blood,bday,address,city,state,country,pic) VALUES ('$username','$email','$password','$name','$gender','$mobile','$blood','$bday','$address','$city','$state','$country','$pic')";
+			mysqli_query($db,$sql);
+
+			$_SESSION['message'] = " You are now logged in. ";
+			$_SESSION['username'] = $username;
+
+			header("location : welcome.html");
+
+
+			}
+			
+			else{
+			$_SESSION['message'] = " The two passwords do not match. ";
+ 			}
+
+
+		}
+		else{
+			$_SESSION['message'] = " Please select an image. ";
+		}

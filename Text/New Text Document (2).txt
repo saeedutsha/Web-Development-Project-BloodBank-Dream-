@@ -1,0 +1,53 @@
+<script type="text/javascript">
+
+			
+			function validate(){
+
+			var username = document.forms["myform"]["username"];
+			var password = document.forms["myform"]["password"];
+			var confirm = document.forms["myform"]["confirm"];
+			var name = document.forms["myform"]["name"];
+			var contact = document.forms["myform"]["contact"];
+			var blood = document.forms["myform"]["blood"];
+			var city = document.forms["myform"]["city"];
+
+					if(username.value()==""){
+						alert("Username is required");
+						username.focus();
+						return false;
+					}
+					if(email.value()==""){
+						alert("Email is required");
+						email.focus();
+						return false;
+					}
+					if(password.value()==""){
+						alert("Password is required");
+						password.focus();
+						return false;
+					}
+					if(confirm.value()==""){
+						alert("Again Password is required");
+						confirm.focus();
+						return false;
+					}
+					if(name.value()==""){
+						alert("Name is required");
+						name.focus();
+						return false;
+					}
+					if(blood.value()==""){
+						alert("Blood Group is required");
+						blood.focus();
+						return false;
+					}
+					if(city.value()==""){
+						alert("City/District is required");
+						city.focus();
+						return false;
+					}
+
+			}
+
+
+	</script>

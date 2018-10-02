@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Record>
+		<Serial>1</Serial>
+		<Name>Apollo Information CentreKhulna</Name>
+		<Address>Tribune Tower, 2B, KDA Avenue, Khulna</Address>
+		<Contact>Mobile: 01713-489191</Contact>
+	</Record>
+	<Record>
+		<Serial>2</Serial>
+		<Name>Ali Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-724066</Contact>
+	</Record>
+	<Record>
+		<Serial>3</Serial>
+		<Name>AL-Faruq Health Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-732083</Contact>
+	</Record>
+	<Record>
+		<Serial>4</Serial>
+		<Name>Arogya Niketan</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-731366</Contact>
+	</Record>
+	<Record>
+		<Serial>5</Serial>
+		<Name>Auro Diagnostic Complex</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-731744</Contact>
+	</Record>
+	<Record>
+		<Serial>6</Serial>
+		<Name>B.N.S.B. Eye Hospital</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-785889</Contact>
+	</Record>
+	<Record>
+		<Serial>7</Serial>
+		<Name>Basundhara Diagnostic Center</Name>
+		<Address>47 Khan Jahan Ali Road, Khulna.</Address>
+		<Contact>Tel: 041-720075.</Contact>
+	</Record>
+	<Record>
+		<Serial>8</Serial>
+		<Name>Badsha Mia Memorial Clinic&amp; Diagnostic center</Name>
+		<Address>1 No Farazi Para Road,Khulna.</Address>
+		<Contact>Tel: 041-724497, Mob: 01711-309374</Contact>
+	</Record>
+	<Record>
+		<Serial>9</Serial>
+		<Name>Community Eye Hospital</Name>
+		<Address>Zarafa Lodge, 82, South Central Road, Khulna-9100.</Address>
+		<Contact>Tel: 041-725355</Contact>
+	</Record>
+	<Record>
+		<Serial>10</Serial>
+		<Name>Cure Home diagnostic center</Name>
+		<Address>27, K.D.A. Avenue</Address>
+		<Contact>Tel: 041-753542</Contact>
+	</Record>
+	<Record>
+		<Serial>11</Serial>
+		<Name>CT imaging center</Name>
+		<Address>35, K.D.A.avenue (khalil cember), Khulna.</Address>
+		<Contact>Tel:041-731150</Contact>
+	</Record>
+	<Record>
+		<Serial>12</Serial>
+		<Name>City Nursing Home</Name>
+		<Address>Hazi Mohsin Road, Khulna</Address>
+		<Contact>Tel: 041-724329</Contact>
+	</Record>
+	<Record>
+		<Serial>13</Serial>
+		<Name>C.S.S. Eye Hospital</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-731220 72235</Contact>
+	</Record>
+	<Record>
+		<Serial>14</Serial>
+		<Name>Cure Home GeneralHospital (Pvt) Ltd.</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 723542</Contact>
+	</Record>
+	<Record>
+		<Serial>15</Serial>
+		<Name>Diabetic Hospital</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-721966</Contact>
+	</Record>
+	<Record>
+		<Serial>16</Serial>
+		<Name>Diarrhoea Hospital</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-722556</Contact>
+	</Record>
+	<Record>
+		<Serial>17</Serial>
+		<Name>Doctors Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-723215</Contact>
+	</Record>
+	<Record>
+		<Serial>18</Serial>
+		<Name>Doctors Diagnostic Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-723655</Contact>
+	</Record>
+	<Record>
+		<Serial>19</Serial>
+		<Name>Doha Physiotherapy Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-732355</Contact>
+	</Record>
+	<Record>
+		<Serial>20</Serial>
+		<Name>Daulatpur Poly Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-774887</Contact>
+	</Record>
+	<Record>
+		<Serial>21</Serial>
+		<Name>Dr. Amanullah Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-721283</Contact>
+	</Record>
+	<Record>
+		<Serial>22</Serial>
+		<Name>Eye Hospital (Rupsha)</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-722355</Contact>
+	</Record>
+	<Record>
+		<Serial>23</Serial>
+		<Name>Fair Health Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-761617</Contact>
+	</Record>
+	<Record>
+		<Serial>24</Serial>
+		<Name>Fatema Health Care Centre (Pathology)</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-730265</Contact>
+	</Record>
+	<Record>
+		<Serial>25</Serial>
+		<Name>Garib Newaz Clinic and Diagnostic Center</Name>
+		<Address>K.D.A. Avenue, Sat Rasta Mor, Khulna</Address>
+		<Contact>Tel: 041-720081-3 721784</Contact>
+	</Record>
+	<Record>
+		<Serial>26</Serial>
+		<Name>Green Maternity Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-721016</Contact>
+	</Record>
+	<Record>
+		<Serial>27</Serial>
+		<Name>Hamdard</Name>
+		<Address>41 Khan Jahan Ali Road, Khulna.</Address>
+		<Contact>Tel: 041-723951</Contact>
+	</Record>
+	<Record>
+		<Serial>28</Serial>
+		<Name>I.D Hospital</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-774716</Contact>
+	</Record>
+	<Record>
+		<Serial>29</Serial>
+		<Name>Jamuna Diagnostic Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-760757 731771</Contact>
+	</Record>
+	<Record>
+		<Serial>30</Serial>
+		<Name>Khan-A- Sabur CancerHospital &amp; Research Institute</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:760607</Contact>
+	</Record>
+	<Record>
+		<Serial>31</Serial>
+		<Name>Khulna Children`s Nursing Home</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:723572</Contact>
+	</Record>
+	<Record>
+		<Serial>32</Serial>
+		<Name>Khulna Clinic</Name>
+		<Address>133 Khan Jahan Ali Road, Royal Chatter,Khulna.</Address>
+		<Contact>Tel: 041-730562</Contact>
+	</Record>
+	<Record>
+		<Serial>33</Serial>
+		<Name>Khulna Disabled Hospital</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-761486</Contact>
+	</Record>
+	<Record>
+		<Serial>34</Serial>
+		<Name>Khulna Maternity &amp; Health Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-731533</Contact>
+	</Record>
+	<Record>
+		<Serial>35</Serial>
+		<Name>Khulna Medical CollegeHospital</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-761531-5 761509</Contact>
+	</Record>
+	<Record>
+		<Serial>36</Serial>
+		<Name>Khulna Pain Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-720415 720711</Contact>
+	</Record>
+	<Record>
+		<Serial>37</Serial>
+		<Name>Khulna Pangu (Dis-Able)Hospital</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-721019</Contact>
+	</Record>
+	<Record>
+		<Serial>38</Serial>
+		<Name>Khulna Police Hospital</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-723505</Contact>
+	</Record>
+	<Record>
+		<Serial>39</Serial>
+		<Name>Khulna Sadar Hospital</Name>
+		<Address>Khulna Sadar, Khulna.</Address>
+		<Contact>Tel:041-723876 723433</Contact>
+	</Record>
+	<Record>
+		<Serial>40</Serial>
+		<Name>Khulna Surgical Clinic</Name>
+		<Address>Khulna Sadar, Khulna.</Address>
+		<Contact>Tel:041-722568 724450</Contact>
+	</Record>
+	<Record>
+		<Serial>41</Serial>
+		<Name>Khulna Surgical &amp; MedicalHospital (Pvt) Ltd.</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-723966 724450, 722568</Contact>
+	</Record>
+	<Record>
+		<Serial>42</Serial>
+		<Name>Khulna Shishu Hospital</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-724275</Contact>
+	</Record>
+	<Record>
+		<Serial>43</Serial>
+		<Name>Khulna Skin Care Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-730166</Contact>
+	</Record>
+	<Record>
+		<Serial>44</Serial>
+		<Name>Khulna Diagnostic Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-732228</Contact>
+	</Record>
+	<Record>
+		<Serial>45</Serial>
+		<Name>Khulna T.B Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-731105 761105</Contact>
+	</Record>
+	<Record>
+		<Serial>46</Serial>
+		<Name>Khulna Nursing Home</Name>
+		<Address>123 Khan Jahan Ali Road, Khulna.</Address>
+		<Contact>Tel: 041-723572</Contact>
+	</Record>
+	<Record>
+		<Serial>47</Serial>
+		<Name>Khulna T.B Hospital</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-762552 774552</Contact>
+	</Record>
+	<Record>
+		<Serial>48</Serial>
+		<Name>Khalishpur Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-762109 761637</Contact>
+	</Record>
+	<Record>
+		<Serial>49</Serial>
+		<Name>Kinder Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-732212 725552</Contact>
+	</Record>
+	<Record>
+		<Serial>50</Serial>
+		<Name>Linda Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel: 041-724066</Contact>
+	</Record>
+	<Record>
+		<Serial>51</Serial>
+		<Name>Lab- Tec Diagnostic Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-724246</Contact>
+	</Record>
+	<Record>
+		<Serial>52</Serial>
+		<Name>Marie Stope</Name>
+		<Address>Nadia villa, B-12, Mozid Saroni Sonadanga, Khulna</Address>
+		<Contact>Pho: 041-731120 721902</Contact>
+	</Record>
+	<Record>
+		<Serial>53</Serial>
+		<Name>Medicare Diagnostic Centre</Name>
+		<Address>41/1, Khan Jahan Ali Road, Khulna.</Address>
+		<Contact>Pho: 041-721902</Contact>
+	</Record>
+	<Record>
+		<Serial>54</Serial>
+		<Name>Matri Mangol Clinic</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-721688 762109</Contact>
+	</Record>
+	<Record>
+		<Serial>55</Serial>
+		<Name>Maternity Hospital(Headquarter)</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-722556 720444</Contact>
+	</Record>
+	<Record>
+		<Serial>56</Serial>
+		<Name>Medicare Diagnostic Centre</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-722678</Contact>
+	</Record>
+	<Record>
+		<Serial>57</Serial>
+		<Name>Metropolitan Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-723075</Contact>
+	</Record>
+	<Record>
+		<Serial>58</Serial>
+		<Name>Mishu Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-721270</Contact>
+	</Record>
+	<Record>
+		<Serial>59</Serial>
+		<Name>Mohanagar DiogonasticClinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-723852</Contact>
+	</Record>
+	<Record>
+		<Serial>60</Serial>
+		<Name>Monisha Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-760977</Contact>
+	</Record>
+	<Record>
+		<Serial>61</Serial>
+		<Name>Medicare Diagnostic Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-722678</Contact>
+	</Record>
+	<Record>
+		<Serial>62</Serial>
+		<Name>Mohanagar Diagnostic Centre</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-723852</Contact>
+	</Record>
+	<Record>
+		<Serial>63</Serial>
+		<Name>Nabila Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-730950</Contact>
+	</Record>
+	<Record>
+		<Serial>64</Serial>
+		<Name>Nahar Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-731478 720740</Contact>
+	</Record>
+	<Record>
+		<Serial>65</Serial>
+		<Name>Nargis Memorial Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-723499 720379</Contact>
+	</Record>
+	<Record>
+		<Serial>66</Serial>
+		<Name>Nazma Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-725042-146</Contact>
+	</Record>
+	<Record>
+		<Serial>67</Serial>
+		<Name>Niramoy Clinic</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-730220</Contact>
+	</Record>
+	<Record>
+		<Serial>68</Serial>
+		<Name>Progoti Drug Addicted Help center</Name>
+		<Address>145 Khan Jahan ali road, Khulna.</Address>
+		<Contact>Tel:041-730220</Contact>
+	</Record>
+	<Record>
+		<Serial>69</Serial>
+		<Name>Padma Diagnostic Centre</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-724907</Contact>
+	</Record>
+	<Record>
+		<Serial>70</Serial>
+		<Name>Padma Diagnostic Center</Name>
+		<Address>24, K.D.A. Avenue,</Address>
+		<Contact>Ashon Monjil, Khulna</Contact>
+	</Record>
+	<Record>
+		<Serial>71</Serial>
+		<Name>Popular Nursing Home</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-761456</Contact>
+	</Record>
+	<Record>
+		<Serial>72</Serial>
+		<Name>Pyramid Clinic</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-783238</Contact>
+	</Record>
+	<Record>
+		<Serial>73</Serial>
+		<Name>Quior Home</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-723542</Contact>
+	</Record>
+	<Record>
+		<Serial>74</Serial>
+		<Name>Razin Clinic and Diagnostic Center</Name>
+		<Address>F-1 K.D.A.Avaniu, Asif Mansion, Khulna.</Address>
+		<Contact>Tel: 041-720081-3, Mob: 01711-170200, 01552-317091</Contact>
+	</Record>
+	<Record>
+		<Serial>75</Serial>
+		<Name>Rangdhanu Diagnostic Complex</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-731658</Contact>
+	</Record>
+	<Record>
+		<Serial>76</Serial>
+		<Name>Rasida Memorial Hospital</Name>
+		<Address>53, K.D.A. Avenue,</Address>
+		<Contact>Khulna</Contact>
+	</Record>
+	<Record>
+		<Serial>77</Serial>
+		<Name>Railway Hospital</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-723231</Contact>
+	</Record>
+	<Record>
+		<Serial>78</Serial>
+		<Name>Raj Surgical Clinic</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-720782</Contact>
+	</Record>
+	<Record>
+		<Serial>79</Serial>
+		<Name>Samela Memorial Clinic</Name>
+		<Address>Khanjahan Ali Road, Ferryghat, Jamatkhana, Khulna</Address>
+		<Contact>Tel: 041-722266, 01712109900, 01711297560</Contact>
+	</Record>
+	<Record>
+		<Serial>80</Serial>
+		<Name>Shapla Clinic</Name>
+		<Address>19 Share-e Bangla Road, Khulna.</Address>
+		<Contact>Tel:041-724857</Contact>
+	</Record>
+	<Record>
+		<Serial>81</Serial>
+		<Name>Surgical Clinic</Name>
+		<Address>B, 20-21Mozid Saroni Sonadanga, Khulna</Address>
+		<Contact>Tel:041-724857</Contact>
+	</Record>
+	<Record>
+		<Serial>82</Serial>
+		<Name>Setu Diagnostic Center</Name>
+		<Address>10 South Central Road, Khulna.</Address>
+		<Contact>Tel: 041-730310, Mob: 01711-812232</Contact>
+	</Record>
+	<Record>
+		<Serial>83</Serial>
+		<Name>Sundrban diagnostic center</Name>
+		<Address>35, K.D.A.Avenue, Khulna</Address>
+		<Contact>Tel: 041-722079</Contact>
+	</Record>
+	<Record>
+		<Serial>84</Serial>
+		<Name>Sadar Hospital</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-724525 720133</Contact>
+	</Record>
+	<Record>
+		<Serial>85</Serial>
+		<Name>Seba Clinic</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-724267 724269</Contact>
+	</Record>
+	<Record>
+		<Serial>86</Serial>
+		<Name>Shatadal Clinic</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-724930</Contact>
+	</Record>
+	<Record>
+		<Serial>87</Serial>
+		<Name>St. Martin Pathology</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-724065</Contact>
+	</Record>
+	<Record>
+		<Serial>88</Serial>
+		<Name>Sandhani Diagnostic Complex</Name>
+		<Address>58, Babu Khan Road, Khulna</Address>
+		<Contact>Tel: 041-723773</Contact>
+	</Record>
+	<Record>
+		<Serial>89</Serial>
+		<Name>Standard Pathology</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-725848</Contact>
+	</Record>
+	<Record>
+		<Serial>90</Serial>
+		<Name>Tot Pathology</Name>
+		<Address>Khulna Sadar, Khulna</Address>
+		<Contact>Tel:041-725141</Contact>
+	</Record>
+	<Record>
+		<Serial>91</Serial>
+		<Name>Upasam Hospital</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-720778</Contact>
+	</Record>
+	<Record>
+		<Serial>92</Serial>
+		<Name>Ultra Diagnostic Complex</Name>
+		<Address>Khulna.</Address>
+		<Contact>Tel:041-720600 722369</Contact>
+	</Record>
+	<Record>
+		<Serial>93</Serial>
+		<Name>Sadar Hospital</Name>
+		<Address>Government Hospital, Hospital &amp; Clinic, (Khulna Sadar, Khulna Sadar, Khulna-map)</Address>
+		<Contact>Tel: 724525, 720133</Contact>
+	</Record>
+	<Record>
+		<Serial>94</Serial>
+		<Name>Upazila Health Complex</Name>
+		<Address>Government Hospital, Hospital &amp; Clinic, (Batiaghata, Batiaghata, Khulna-map)</Address>
+		<Contact>Tel: 01730-324593</Contact>
+	</Record>
+	<Record>
+		<Serial>95</Serial>
+		<Name>Upazila Health Complex</Name>
+		<Address>Government Hospital, Hospital &amp; Clinic, (Dacope, Dacope, Khulna-map)</Address>
+		<Contact>Tel: 01730-324594</Contact>
+	</Record>
+	<Record>
+		<Serial>96</Serial>
+		<Name>Upazila Health Complex</Name>
+		<Address>Government Hospital, Hospital &amp; Clinic, (Dighalia, Dhigholia, Khulna-map)</Address>
+		<Contact>Tel: 01730-324595</Contact>
+	</Record>
+	<Record>
+		<Serial>97</Serial>
+		<Name>Upazila Health Complex</Name>
+		<Address>Government Hospital, Hospital &amp; Clinic, (Dumuria, Dumuria, Khulna-map)</Address>
+		<Contact>Tel: 01730-324596</Contact>
+	</Record>
+	<Record>
+		<Serial>98</Serial>
+		<Name>Upazila Health Complex</Name>
+		<Address>Government Hospital, Hospital &amp; Clinic, (Fultala, Fultala, Khulna-map)</Address>
+		<Contact>Tel: 01730-324597</Contact>
+	</Record>
+	<Record>
+		<Serial>99</Serial>
+		<Name>Upazila Health Complex</Name>
+		<Address>Government Hospital, Hospital &amp; Clinic, Koyra, Khulna-map)</Address>
+		<Contact>Tel: 01730-324598</Contact>
+	</Record>
+	<Record>
+		<Serial>100</Serial>
+		<Name>Upazila Health Complex</Name>
+		<Address>Government Hospital, Hospital &amp; Clinic, Paikgacha, Khulna</Address>
+		<Contact>Tel: 01730-324599</Contact>
+	</Record>
+	<Record>
+		<Serial>101</Serial>
+		<Name>Upazila Health Complex</Name>
+		<Address>Government Hospital, Hospital &amp; Clinic, Rupsa, Khulna</Address>
+		<Contact>Tel: 01730-324600</Contact>
+	</Record>
+	<Record>
+		<Serial>102</Serial>
+		<Name>Upazila Health Complex</Name>
+		<Address>Government Hospital, Hospital &amp; Clinic, Terokhada, Khulna</Address>
+		<Contact>Tel: 01730-324601</Contact>
+	</Record>
+</data-set>
